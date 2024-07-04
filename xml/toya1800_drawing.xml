@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Anders</name>
+    <author>Andersson</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>yellow</color>
+        <point>
+            <y>40.0</y>
+            <x>20.0</x>
+        </point>
+        <point>
+            <y>90.0</y>
+            <x>60.0</x>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>blue</color>
+        <point>
+            <y>65.0</y>
+            <x>35.0</x>
+        </point>
+        <point>
+            <y>100.0</y>
+            <x>75.0</x>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>green</color>
+        <point>
+            <y>25.0</y>
+            <x>10.0</x>
+        </point>
+        <point>
+            <y>50.0</y>
+            <x>30.0</x>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>black</color>
+        <point>
+            <y>55.0</y>
+            <x>30.0</x>
+        </point>
+        <point>
+            <y>80.0</y>
+            <x>45.0</x>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>green</color>
+        <point>
+            <y>50.0</y>
+            <x>25.0</x>
+        </point>
+        <point>
+            <y>70.0</y>
+            <x>35.0</x>
+        </point>
+    </shape>
+</drawing>
